@@ -10,6 +10,6 @@ citation: 'Lucas Bitello, Lucas. (2019). &quot;Artigo 1.&quot; <i>Jornal tal</i>
 ---
 Isto é sobre meu primeiro artigo.
 
-[Download paper here](http://academicpages.github.io/files/paper1.pdf)
+[Download paper here](http://lucasbitello.github.io/files/paper1.pdf)
 
 Citação recomendada: Your Name, You. (2009). "Paper Title Number 1." <i>Journal 1</i>. 1(1).
