@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "pt-BR"
-title                    : "Sobre mim - Lucas Bitello"
+title                    : "Lucas Bitello Da Silva"
 title_separator          : "-"
 name                     : &name "Lucas Bitello da Silva"
-description              : &description "personal description"
+description              : &description "Acadêmico de Ciência da Computação"
 url                      : https://lucasbitello.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "LucasBitello/lucasbitello.github.io"
+repository               : "lucasbitello.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Lucas Bitello da Silva"
   avatar           : "profile.png"
-  bio              : "Academico de ciência da computação na UFFS"
+  bio              : "Acadêmico de ciência da computação na UFFS, expert em tomar café"
   location         : "Guatambu / Santa Catarina - BR"
   employer         :
   pubmed           : 
@@ -94,12 +94,12 @@ author:
   codepen          :
   dribbble         :
   flickr           :
-  facebook         : "https://www.facebook.com/lucasbitellods"
+  facebook         : "lucasbitellods"
   foursquare       :
-  github           : "github.com/LucasBitello"
+  github           : "LucasBitello"
   google_plus      :
   keybase          :
-  instagram        : "https://www.instagram.com/lucasbitello"
+  instagram        : "lucasbitello"
   impactstory      : 
   lastfm           :
   linkedin         :
@@ -107,7 +107,7 @@ author:
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
-  steam            :
+  steam            :  
   tumblr           :
   twitter          : 
   vine             :
