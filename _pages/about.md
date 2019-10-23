@@ -10,4 +10,4 @@ redirect_from:
 
 Está é a home de Lucas Bitello da Silva, futuro ciêntista da computação.
 
--Grandes poderes trazem grandes responsabilidades.
+Grandes poderes trazem grandes responsabilidades.
