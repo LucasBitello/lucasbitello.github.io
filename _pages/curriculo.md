@@ -29,7 +29,7 @@ Habilidades:
 ======
 * Dominio em Word/Excel.
 * Linguagens de Programação:
-  * Python 3.**
+  * Python
   * HTML
 * Inglês Intermediário.
 
