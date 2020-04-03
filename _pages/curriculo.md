@@ -30,6 +30,11 @@ Habilidades:
 * Dominio em Word/Excel.
 * Linguagens de Programação:
   * Python
-  * HTML
+  * C
+  * Para Web:
+    - Front-End: JavaScript, CSS, HTML
+    - Back-End: Express.JS, PHP
+  * Para Mobile:
+    - React-Navite
 * Inglês Intermediário.
 
